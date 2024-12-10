@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Evolution API 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-23 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Evolution API"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Customization"
+msgstr ""
+
+msgid "Licenses"
+msgstr ""
+
+msgid "Integration Settings with Evolution API."
+msgstr ""
+
+msgid "Customize the display options of Evolution API for WooCommerce"
+msgstr ""
+
+msgid "API Key"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Copied successfully"
+msgstr ""
+
+msgid "Expires in"
+msgstr ""
+
+msgid "Instance connected"
+msgstr ""
+
+msgid "No records found."
+msgstr ""
+
+msgid "To generate the QR Code, click the button below."
+msgstr ""
+
+msgid "Instance available"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Chatwoot"
+msgstr ""
+
+msgid "Typebot"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Enabled"
+msgstr "Disabled"
+
+msgid "Reject calls"
+msgstr ""
+
+msgid "Rejection message"
+msgstr ""
+
+msgid "Ignore Groups"
+msgstr ""
+
+msgid "Always online"
+msgstr ""
+
+msgid "Mark messages as read"
+msgstr ""
+
+msgid "Mark status as seen"
+msgstr ""
+
+msgid "Sync full history"
+msgstr ""
+
+msgid "Typebot flow name"
+msgstr ""
+
+msgid "End keyword"
+msgstr ""
+
+msgid "Expiration time (in minutes)"
+msgstr ""
+
+msgid "Typing time (in milliseconds)"
+msgstr ""
+
+msgid "Unknown format message"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Account ID"
+msgstr ""
+
+msgid "Days limit to import messages"
+msgstr ""
+
+msgid "Sign message"
+msgstr ""
+
+msgid "Message signature separator"
+msgstr ""
+
+msgid "Reopen conversation"
+msgstr ""
+
+msgid "Start conversation as pending"
+msgstr ""
+
+msgid "Import contacts"
+msgstr ""
+
+msgid "Import message"
+msgstr ""
+
+msgid "Deadline (in days)"
+msgstr ""
+
+msgid "Enter the deadline"
+msgstr ""
+
+msgid "Enter the product expiration deadline."
+msgstr ""
